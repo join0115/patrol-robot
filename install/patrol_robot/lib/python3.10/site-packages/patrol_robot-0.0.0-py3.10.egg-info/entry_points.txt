@@ -1,4 +1,0 @@
-[console_scripts]
-dashboard_server = patrol_robot.dashboard_server:main
-patrol_node = patrol_robot.patrol_node:main
-
