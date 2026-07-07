@@ -1,0 +1,37 @@
+[0.611s] Invoking command in '/home/ros2/ros2_ws/src/patrol_robot': PYTHONPATH=/home/ros2/ros2_ws/build/patrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/patrol_robot build --build-base /home/ros2/ros2_ws/build/patrol_robot/build install --record /home/ros2/ros2_ws/build/patrol_robot/install.log --install-scripts $base/lib/patrol_robot --single-version-externally-managed install_data
+[0.803s] running egg_info
+[0.803s] creating ../../build/patrol_robot/patrol_robot.egg-info
+[0.803s] writing ../../build/patrol_robot/patrol_robot.egg-info/PKG-INFO
+[0.803s] writing dependency_links to ../../build/patrol_robot/patrol_robot.egg-info/dependency_links.txt
+[0.803s] writing entry points to ../../build/patrol_robot/patrol_robot.egg-info/entry_points.txt
+[0.803s] writing requirements to ../../build/patrol_robot/patrol_robot.egg-info/requires.txt
+[0.803s] writing top-level names to ../../build/patrol_robot/patrol_robot.egg-info/top_level.txt
+[0.804s] writing manifest file '../../build/patrol_robot/patrol_robot.egg-info/SOURCES.txt'
+[0.804s] reading manifest file '../../build/patrol_robot/patrol_robot.egg-info/SOURCES.txt'
+[0.805s] writing manifest file '../../build/patrol_robot/patrol_robot.egg-info/SOURCES.txt'
+[0.805s] running build
+[0.805s] running build_py
+[0.805s] creating /home/ros2/ros2_ws/build/patrol_robot/build
+[0.805s] creating /home/ros2/ros2_ws/build/patrol_robot/build/lib
+[0.805s] creating /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot
+[0.806s] copying patrol_robot/__init__.py -> /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot
+[0.806s] copying patrol_robot/patrol_node.py -> /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot
+[0.806s] running install
+[0.806s] running install_lib
+[0.807s] creating /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot
+[0.807s] copying /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot/__init__.py -> /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot
+[0.807s] copying /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot/patrol_node.py -> /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot
+[0.808s] byte-compiling /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot/__init__.py to __init__.cpython-310.pyc
+[0.809s] byte-compiling /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot/patrol_node.py to patrol_node.cpython-310.pyc
+[0.809s] running install_data
+[0.809s] creating /home/ros2/ros2_ws/install/patrol_robot/share/ament_index
+[0.809s] creating /home/ros2/ros2_ws/install/patrol_robot/share/ament_index/resource_index
+[0.809s] creating /home/ros2/ros2_ws/install/patrol_robot/share/ament_index/resource_index/packages
+[0.809s] copying resource/patrol_robot -> /home/ros2/ros2_ws/install/patrol_robot/share/ament_index/resource_index/packages
+[0.809s] copying package.xml -> /home/ros2/ros2_ws/install/patrol_robot/share/patrol_robot
+[0.810s] running install_egg_info
+[0.811s] Copying ../../build/patrol_robot/patrol_robot.egg-info to /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot-0.0.0-py3.10.egg-info
+[0.812s] running install_scripts
+[0.825s] Installing patrol_node script to /home/ros2/ros2_ws/install/patrol_robot/lib/patrol_robot
+[0.825s] writing list of installed files to '/home/ros2/ros2_ws/build/patrol_robot/install.log'
+[0.842s] Invoked command in '/home/ros2/ros2_ws/src/patrol_robot' returned '0': PYTHONPATH=/home/ros2/ros2_ws/build/patrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/patrol_robot build --build-base /home/ros2/ros2_ws/build/patrol_robot/build install --record /home/ros2/ros2_ws/build/patrol_robot/install.log --install-scripts $base/lib/patrol_robot --single-version-externally-managed install_data

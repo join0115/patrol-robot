@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/patrol_robot/patrol_robot.egg-info
+writing ../../build/patrol_robot/patrol_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/patrol_robot/patrol_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/patrol_robot/patrol_robot.egg-info/entry_points.txt
+writing requirements to ../../build/patrol_robot/patrol_robot.egg-info/requires.txt
+writing top-level names to ../../build/patrol_robot/patrol_robot.egg-info/top_level.txt
+writing manifest file '../../build/patrol_robot/patrol_robot.egg-info/SOURCES.txt'
+reading manifest file '../../build/patrol_robot/patrol_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/patrol_robot/patrol_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ros2/ros2_ws/build/patrol_robot/build
+creating /home/ros2/ros2_ws/build/patrol_robot/build/lib
+creating /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot
+copying patrol_robot/__init__.py -> /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot
+copying patrol_robot/patrol_node.py -> /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot
+running install
+running install_lib
+creating /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot
+copying /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot/__init__.py -> /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot
+copying /home/ros2/ros2_ws/build/patrol_robot/build/lib/patrol_robot/patrol_node.py -> /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot
+byte-compiling /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot/patrol_node.py to patrol_node.cpython-310.pyc
+running install_data
+creating /home/ros2/ros2_ws/install/patrol_robot/share/ament_index
+creating /home/ros2/ros2_ws/install/patrol_robot/share/ament_index/resource_index
+creating /home/ros2/ros2_ws/install/patrol_robot/share/ament_index/resource_index/packages
+copying resource/patrol_robot -> /home/ros2/ros2_ws/install/patrol_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/ros2/ros2_ws/install/patrol_robot/share/patrol_robot
+running install_egg_info
+Copying ../../build/patrol_robot/patrol_robot.egg-info to /home/ros2/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing patrol_node script to /home/ros2/ros2_ws/install/patrol_robot/lib/patrol_robot
+writing list of installed files to '/home/ros2/ros2_ws/build/patrol_robot/install.log'
